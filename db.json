@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "metro": [
+    {
+      "id": "a3f92b0b-ee3c-4837-bce3-e5a51d70a04b",
+      "nombre": "Quitumbe",
+      "sector": "Sur-Norte",
+      "salida": "Chimbacalle",
+      "llegada": "San Francisco",
+      "maquinista": "Rube",
+      "detalles": "asdasd"
+    }
+  ]
+}
